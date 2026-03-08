@@ -22,9 +22,9 @@ local UniversalScript = "https://raw.githubusercontent.com/ObsidianCatexe/Obsidi
 -- 2. OYUNLARA ÖZEL SCRİPT LİSTESİ:
 -- (Köşeli parantez içine oyunun ID'sini, tırnak içine o oyun için yaptığın hilenin Raw linkini yaz)
 local Games = {
-    [606849621] = "https://raw.githubusercontent.com/SENIN_ADIN/ObsidianCat-Scripts/main/Jailbreak.lua", -- Jailbreak
-    [155615604] = "https://raw.githubusercontent.com/SENIN_ADIN/ObsidianCat-Scripts/main/PrisonLife.lua", -- Prison Life
-    [4924922222] = "https://raw.githubusercontent.com/SENIN_ADIN/ObsidianCat-Scripts/main/Brookhaven.lua", -- Brookhaven
+    [606849621] = "https://raw.githubusercontent.com/ObsidianCatexe/ObsidianCat-Scripts/refs/heads/main/Universal.lua", -- Jailbreak
+    [155615604] = "https://raw.githubusercontent.com/ObsidianCatexe/ObsidianCat-Scripts/refs/heads/main/Universal.lua", -- Prison Life
+    [4924922222] = "https://raw.githubusercontent.com/ObsidianCatexe/ObsidianCat-Scripts/refs/heads/main/Universal.lua", -- Brookhaven
 }
 
 -- 3. KARAR VE ÇALIŞTIRMA AŞAMASI
