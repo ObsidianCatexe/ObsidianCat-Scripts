@@ -18,8 +18,8 @@ local UniversalScript = "https://raw.githubusercontent.com/ObsidianCatexe/Obsidi
 
 local Games = {
     [2916899287] = "https://raw.githubusercontent.com/ObsidianCatexe/ObsidianCat-Scripts/refs/heads/main/BRM5.lua",
-    [155615604] = "https://raw.githubusercontent.com/ObsidianCatexe/ObsidianCat-Scripts/refs/heads/main/Universal.lua", 
-    [4924922222] = "https://raw.githubusercontent.com/ObsidianCatexe/ObsidianCat-Scripts/refs/heads/main/Universal.lua",
+    [10165583746] = "https://raw.githubusercontent.com/ObsidianCatexe/ObsidianCat-Scripts/refs/heads/main/Examination.lua", 
+    [3226555017] = "https://raw.githubusercontent.com/ObsidianCatexe/ObsidianCat-Scripts/refs/heads/main/SCPSR.lua",
 }
 
 local scriptToLoad = Games[PlaceId]
