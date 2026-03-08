@@ -17,7 +17,7 @@ task.wait(1)
 
 -- 1. HERKESE UYGUN (UNIVERSAL) SCRIPT LİNKİN:
 -- (Eğer girdiğin oyun aşağıdaki listede yoksa bu script çalışır. Buraya V7.1'in Raw linkini koy)
-local UniversalScript = "https://raw.githubusercontent.com/SENIN_ADIN/ObsidianCat-Scripts/main/Universal.lua"
+local UniversalScript = "https://raw.githubusercontent.com/ObsidianCatexe/ObsidianCat-Scripts/refs/heads/main/Universal.lua"
 
 -- 2. OYUNLARA ÖZEL SCRİPT LİSTESİ:
 -- (Köşeli parantez içine oyunun ID'sini, tırnak içine o oyun için yaptığın hilenin Raw linkini yaz)
