@@ -12,6 +12,9 @@ local Games = {
     
     -- SCP Site Roleplay
     [3226555017] = "https://raw.githubusercontent.com/ObsidianCatexe/ObsidianCat-Scripts/refs/heads/main/SCPSR.lua",
+
+    --
+    [2668101271] = "https://raw.githubusercontent.com/ObsidianCatexe/ObsidianCat-Scripts/refs/heads/main/FTAP.lua"
 }
 
 local scriptToLoad = Games[currentPlace] or Games[currentGame]
