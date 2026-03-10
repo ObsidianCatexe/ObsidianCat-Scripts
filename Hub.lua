@@ -22,7 +22,7 @@ local Games = {
     [3226555017] = "https://raw.githubusercontent.com/ObsidianCatexe/ObsidianCat-Scripts/refs/heads/main/SCPSR.lua",
 }
 
-local scriptToLoad = Games[PlaceId]
+local scriptToLoad = Games[game.GameId]
 
 if scriptToLoad then
     print("[ObsidianCat]: Desteklenen oyun algılandı! Özel script yükleniyor...")
