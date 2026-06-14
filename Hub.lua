@@ -17,7 +17,9 @@ local Games = {
     [2668101271] = "https://raw.githubusercontent.com/ObsidianCatexe/ObsidianCat-Scripts/refs/heads/main/FTAP.lua",
 
     --ENTRENCHED WW1
-    [1281592938] = "https://raw.githubusercontent.com/ObsidianCatexe/ObsidianCat-Scripts/refs/heads/main/WW1.lua"
+    [1281592938] = "https://raw.githubusercontent.com/ObsidianCatexe/ObsidianCat-Scripts/refs/heads/main/WW1.lua",
+
+    [133410800847665] = "https://raw.githubusercontent.com/ObsidianCatexe/ObsidianCat-Scripts/refs/heads/main/UTD%3AX"
 }
 
 local scriptToLoad = Games[currentPlace] or Games[currentGame]
