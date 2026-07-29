@@ -23,7 +23,7 @@ local Games = {
     [7488190691] = "https://raw.githubusercontent.com/ObsidianCatexe/ObsidianCat-Scripts/refs/heads/main/UTD%3AX",
 
     --DesertStorm
-    [9161571268] = "https://raw.githubusercontent.com/ObsidianCatexe/ObsidianCat-Scripts/refs/heads/main/DesertStorm.lua"
+    [115872975504419] = "https://raw.githubusercontent.com/ObsidianCatexe/ObsidianCat-Scripts/refs/heads/main/DesertStorm.lua"
 }
 
 local scriptToLoad = Games[currentPlace] or Games[currentGame]
